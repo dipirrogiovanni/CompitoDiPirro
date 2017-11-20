@@ -1,5 +1,5 @@
 //Di Pirro Giovanni 5AIA 21/11/2017
-//Programma brutto
+//Programma molto brutto
 #include <iostream>
 using namespace std;
 int main(){
