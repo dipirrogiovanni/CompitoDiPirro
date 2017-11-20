@@ -1,5 +1,9 @@
 //Di Pirro Giovanni 5AIA 21/11/2017
+<<<<<<< HEAD
 //Programma bello
+=======
+//Programma molto brutto
+>>>>>>> FIX_BUG
 #include <iostream>
 using namespace std;
 int main(){
